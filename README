@@ -1,0 +1,8 @@
+A Matlab interface for tnc implementation by http://js2007.free.fr/code/index.html#TNC.
+This interface is adopted from http://www.cs.ubc.ca/~pcarbo/lbfgsb-for-matlab.html.
+
+Enjoy !
+
+P.S:
+- remember to change MATLAB_HOME dir to yours in Makefile !
+ 
